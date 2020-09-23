@@ -1,0 +1,61 @@
+.contact_container{
+    display: block;
+    width: 100%;
+    height: 150px;
+    background-color: cadetblue;
+    color: white;
+    justify-content: center;
+    
+}
+
+
+.contact_info{
+    display: inline-block;
+    margin-top: 25px;
+    height:30px;
+    width: 150px;
+    background-color:white;
+    border-radius: 3px;
+    
+}
+
+.contact_info:hover{
+    background-color: aqua;
+}
+
+
+.git{
+    margin: 6px;
+   color: black;
+}
+.linkdin{
+    margin: 6px;
+    color: black;
+}
+.hackerrank{
+    margin: 6px;
+    color: black;
+}
+
+.git:hover{
+    transform: scale(1.4);
+}
+.linkdin:hover{
+    transform: scale(1.4);
+}
+.hackerrank:hover{
+    transform: scale(1.4);
+}
+
+
+.download_resume{
+    height:fit-content;
+    margin-top: 25px;
+    background-color:transparent;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.download_resume:hover{
+    color: black;
+}

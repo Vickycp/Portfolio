@@ -1,0 +1,38 @@
+.Education_container{
+    margin: 10px;
+    height: 400px;
+    width: 100%;
+    background-color: lavender;
+    border-radius: 5px;
+    border-color: aliceblue;
+    cursor: pointer;
+}
+
+.Education_header{
+    justify-content: center;
+    background-color: black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  
+    
+}
+
+.Education_header h1{
+    text-transform: lowercase;
+}
+
+.Education_info{
+    display: inline;
+    margin: 5px;
+     text-transform: uppercase;
+    color: darkcyan;
+}
+.Education_info h3{
+    color: black;
+    font-weight: 600;
+    font-size: large;
+}
+
+.Education_container:hover{
+    transform: scale(0.8);
+}

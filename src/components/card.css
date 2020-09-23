@@ -1,0 +1,36 @@
+.card_container{
+    margin: 10px;
+    height: 400px;
+    width: 100%;
+    background-color: lavender;
+    border-radius: 5px;
+    border-color: aliceblue;
+    cursor: pointer;
+}
+
+
+.card_header{
+    background-color: black;
+    justify-items: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card_header h1{
+    text-transform: lowercase;
+}
+
+.card_info{
+    display:grid;
+    color: darkcyan;
+
+    
+}
+
+.card_info p{
+    margin:10px;
+}
+
+.card_container:hover{
+    transform: scale(0.8);
+}

@@ -1,0 +1,57 @@
+.Certificate_container{
+    margin: 10px;
+    height: 400px;
+    width: 100%;
+    background-color: lavender;
+    border-radius: 5px;
+    border-color: aliceblue;
+    cursor: pointer;
+}
+
+
+.certificate_header{
+    justify-content: center;
+    background-color: black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.certificate_header h1{
+    text-transform: lowercase;
+}
+
+.certificate_info{
+    display: block;
+    justify-content: space-between;
+}
+
+.certificate_info p{
+    margin: 10px;
+}
+.certificate_info a{
+    text-decoration: none;
+    margin: 5px;
+}
+
+.pyhton_101_development span{
+ 
+ 
+ 
+    color: darkcyan;
+    
+
+}
+.pyhton_basic span{
+  
+   
+  
+    color: darkcyan;
+}
+
+.virtual_internship span{
+    color: darkcyan;
+
+}
+
+.Certificate_container:hover{
+    transform: scale(0.9);
+}

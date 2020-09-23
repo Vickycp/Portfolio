@@ -1,0 +1,17 @@
+.About__container{
+    padding-top: 50px;
+    width: 100%;
+
+    height: 500px;
+    background-color:steelblue;
+    color: aqua;
+    z-index: -1;
+    
+    
+}
+.About_card{
+   width: 100%;
+  display: inline-flex;
+  flex: auto;
+  justify-content: space-around;
+}
