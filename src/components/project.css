@@ -1,4 +1,5 @@
 .project_main{
+    
     padding-top: 50px;
     height: 400px;
     width: 100%;
@@ -16,7 +17,9 @@
     
 }
 .item1:hover{
-    transform: scale(1.2);
+    
+    
+    transform: scale(1.0);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 9);
    
 
@@ -33,7 +36,8 @@
     font-size: 12px;
 }
 .item2:hover{
-    transform: scale(1.2);
+    
+    transform: scale(1.0);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 9);
 
 }
@@ -45,7 +49,8 @@
     font-size: 12px;
 }
 .item3:hover{
-    transform: scale(1.2);
+ 
+    transform: scale(1.0);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 9);
 
 }
@@ -57,17 +62,19 @@
     font-size: 12px;
 }
 .item4:hover{
-    transform: scale(1.2);
+    transform: scale(1.0);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 9);
 
 }
 
 .Project_container{
+    margin: 15px;
     display: grid;
     grid-template-areas: 'project1 project2''project3 project4';
     grid-gap: 100px;
    color: white;
     padding: 10px;
+    overflow: hidden;
 }
 
 .Project-container > div {

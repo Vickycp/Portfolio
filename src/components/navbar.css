@@ -3,6 +3,7 @@
     height: 8vh;
     background-color: aqua;
     position: fixed;
+    overflow: hidden;
 
 }
 .nav_head{
