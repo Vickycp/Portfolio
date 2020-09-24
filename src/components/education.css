@@ -36,3 +36,44 @@
 .Education_container:hover{
     transform: scale(0.8);
 }
+
+
+@media screen and (max-width:700px){
+    .Education_header h1{
+        text-transform: lowercase;
+        font-size: 16px;
+    }
+    
+    .Education_info{
+        display: inline;
+        margin: 5px;
+         text-transform: uppercase;
+        color: darkcyan;
+    }
+    .Education_info h3{
+        margin: 2px;
+        color: black;
+        font-weight: 600;
+        font-size: small;
+    }
+    .Education_info i{
+    margin: 0;
+        font-weight: 300;
+        font-size: smaller;
+    }
+
+    .Education_info sup{
+        font-weight: 300;
+        font-size: 10px;
+    }
+    .Education_info b{
+        font-size: 10px;
+    }
+    .Education_info h4{
+        font-size: 10px;
+    }
+    
+    .Education_container:hover{
+        transform: scale(0.8);
+    }
+}

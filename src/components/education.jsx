@@ -8,7 +8,7 @@ function Education() {
             <div className="Education_info">
             <p> 
                 <h3> bachelor of Engineering</h3>
-                sdm college of engineering and technology
+           <h4>sdm college of engineering and technology </h4>
                 <br/>
                 <i>Ujire</i>
                 <br/>
@@ -18,7 +18,7 @@ function Education() {
                  </p>
             <p> 
                 <h3>Higher Secondary</h3>
-                SDM puc
+               <h4> SDM puc</h4>
                 <br/>
                 <i>Ujire</i>
                 <br/>
@@ -28,7 +28,7 @@ function Education() {
                  </p>
                 <p> 
                 <h3>Secondary school</h3>
-                Sandeepany English Medium School
+              <h4>  Sandeepany English Medium School</h4>
                 <br/>
                 <i>Chowdlu</i>
                 <br/>

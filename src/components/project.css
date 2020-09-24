@@ -83,3 +83,24 @@
     padding: 20px 0;
     font-size: 30px;
   }
+
+
+
+  @media screen and (max-width:700px){
+    .item1 p{
+        font-size: 10px;
+       
+    }
+    .item2 p{
+        font-size: 10px;
+       
+    }
+    .item3 p{
+        font-size: 10px;
+       
+    }
+    .item5 p{
+        font-size: 10px;
+       
+    }
+  }
