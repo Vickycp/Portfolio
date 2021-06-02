@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from "./vikascp.pdf"
+import pdf from "./vikasCP.pdf"
 import {BrowserRouter as Routers,Link} from 'react-router-dom'
 import "./contact.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
