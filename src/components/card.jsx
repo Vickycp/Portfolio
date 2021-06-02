@@ -12,10 +12,8 @@ function Card() {
                 <p> JAVASCRIPT</p>
                 <p> node js && react js</p>
                 <p> PYTHON</p>
-                <p> DART and FLUTTER</p>
-                <p> MACHINE LEARNING</p>
                 <p> Git && Github</p>
-                <p> DBMS</p>
+                <p> oops</p>
                 
             </div>
 

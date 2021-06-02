@@ -14,7 +14,7 @@ function Education() {
                 <br/>
                 <sup> Aug 2017 - jun 2021</sup>
                 <br/>
-                 <b> With 6.0 %</b>
+                 <b> With 6.45 %</b>
                  </p>
             <p> 
                 <h3>Higher Secondary</h3>
@@ -22,7 +22,7 @@ function Education() {
                 <br/>
                 <i>Ujire</i>
                 <br/>
-                <sup> Jun 2014 - Apr 2016</sup>
+                <sup> Jun 2014 - Apr 2017</sup>
                 <br/>
                  <b> With 62%</b>
                  </p>

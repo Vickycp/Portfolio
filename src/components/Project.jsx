@@ -31,11 +31,10 @@ function Project() {
                 </div>
                 <div className="item3">
                     <h3>
-                        EX-Player
+                        Eventmanagement
                     </h3>
                     <p>
-                        Offline video player .Which allows you to play local videos on your mobile.
-                        Implemented using Dart and flutter
+                        Manage the event using a fullscreen calender
                     </p>
                 </div>
                 <div className="item4">
